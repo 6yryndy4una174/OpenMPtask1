@@ -1,5 +1,7 @@
 # OpenMPtask1
 
+1ый запуск
+
 C:\Users\6yryndy4una\source\repos\OpenMPLab\OpenMPLab>cat 1.txt
 
 24592
